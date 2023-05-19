@@ -6,10 +6,9 @@ Mon objectif est de mener une carrière en développement de logiciels, où je p
 
 ## 🛠️ Compétences techniques
 
-![Java](https://img.shields.io/badge/-Java-%23007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-%2362DAFB?style=flat&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
