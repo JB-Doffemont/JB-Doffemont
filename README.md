@@ -1,8 +1,16 @@
 # Bonjour, c'est JB 👋
 
-Actuellement étudiant à l'École 42, je me passionne pour le développement informatique, la résolution de défis complexes et le travail en équipe. Mon parcours est varié : j'ai travaillé dans le domaine de la restauration, où j'ai acquis des compétences en gestion d'équipe et en résolution de problèmes, et j'ai également servi dans l'armée de terre en tant que chasseur alpin, où j'ai développé une grande discipline, une résilience face aux difficultés et une capacité à travailler efficacement en équipe.
+🔭 Actuellement titulaire d'un titre professionnel de niveau 6, je suis un développeur enthousiaste et dévoué, en constante quête d'amélioration. Je m'efforce d'élargir mes compétences pour pouvoir les mettre au service de projets dynamiques et innovants. Mon ambition est d'obtenir un titre professionnel de niveau 7.
 
-Mon objectif est de mener une carrière en développement de logiciels, où je peux utiliser mes compétences acquises pour résoudre des problèmes difficiles et contribuer à des projets significatifs.
+🌱 Je suis un fervent adepte de l'apprentissage continu, ma curiosité insatiable alimentant ma créativité dans la conception de fonctionnalités novatrices et d'applications web impactantes.
+
+💪 Mes compétences techniques s'étendent de la conception de maquettes d'applications à la mise en place de solutions de gestion de contenu, en passant par le développement de pages web en interaction avec une base de données, et bien plus encore.
+
+🚀 J'adore donner vie à des idées, qu'elles soient simples ou complexes, utiles ou simplement originales. Le développement web est un champ où mon imagination peut s'exprimer librement et me permet de réaliser des créations exceptionnelles.
+
+👀 Découvrez mes travaux et n'hésitez pas à me contacter pour toute collaboration, question ou juste pour dire bonjour!
+
+
 
 ## 🛠️ Compétences techniques
 
