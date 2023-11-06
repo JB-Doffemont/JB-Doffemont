@@ -1,6 +1,6 @@
 # Bonjour, c'est JB 👋
 
-🔭 Actuellement titulaire d'un titre professionnel de niveau 6, je suis un développeur enthousiaste et dévoué, en constante quête d'amélioration. Je m'efforce d'élargir mes compétences pour pouvoir les mettre au service de projets dynamiques et innovants. Mon ambition est d'obtenir un titre professionnel de niveau 7.
+🔭 Actuellement titulaire d'un titre professionnel de niveau 6, je suis un développeur enthousiaste, en constante quête d'amélioration. Je m'efforce d'élargir mes compétences pour pouvoir les mettre au service de projets dynamiques et innovants. Mon ambition est d'obtenir un titre professionnel de niveau 7.
 
 🌱 Je suis un fervent adepte de l'apprentissage continu, ma curiosité insatiable alimentant ma créativité dans la conception de fonctionnalités novatrices et d'applications web impactantes.
 
@@ -15,6 +15,7 @@
 ## 🛠️ Compétences techniques
 
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-%23FF5722?style=flat&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white)
